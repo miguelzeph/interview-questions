@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 
 title: Intreview Questions
 description: Here I'm giving some tips in the intreview
-logo: ./img/logo.png
+logo: "./img/logo.png"
 

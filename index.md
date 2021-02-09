@@ -52,4 +52,15 @@ yeah I have...
 > What is your salary expectation?
 wellllll.... my salary expectation in this moment is between 30 to 40 thousand, and I'm open to discuss... because I just arrived here and I think this salary is fair
 
+### The Most commum word you will have listen in a intreview
+
+- role
+- position
+- salary expectation
+- willing...
+
+### Useful sentences to use in a intreview
+
+> Can you heard me well?
+> Could you repeat please?
 

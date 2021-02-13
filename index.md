@@ -294,10 +294,12 @@ ___
 - **practice makes perfect**
 |**To be honest with you**
 |**believe that**
+|**refuse**:recusar
+
 
 
 ##### possible answers
-- To be honest with you guys, I wasn't looking for a job in this moment, because I was hundred porcent focosed in improve my vocabulary in english, but how the oppotunity appears to me, I couldn't say not and know I'm here doing my best for you guys...andddd.... I don't have afraid to make mistakes just because to learn you need to lost some time, I believe that the practice makes perfect. It's all that I have to say.
+- To be honest with you guys, I wasn't looking for a job in this moment, because I was hundred porcent focosed in improve my vocabulary in english, but how the oppotunity appears to me, How can I refuse it? I couldn't say not and know I'm here doing my best for you guys...andddd.... I don't have afraid to make mistakes just because to learn you need to lost some time, I believe that the practice makes perfect. It's all that I have to say.
 
 
 <!-- MODELO PRONTO
@@ -407,6 +409,12 @@ ___
 > Could you speak a little bit slow, I will appreciate it a lot 
 
 > I have facility to resolve problems and learn new things because I'm fast learner in anything that I commited myself to do...
+
+> I know how to use Flask, but in this moment I'm a little bit rusty because I used it a some time ago... but it isnt a problem to me if I need to use it again I believe that I wont have problems
+
+> I'm willing to move to anywhere here
+
+> I have applied to this position / role
 
 
 

@@ -1,10 +1,18 @@
 # Intreview Questions
 
+
 ### The Most Intreview Questions and Possible Answers
 
 > What is your **situation right know**? Are you **seeking/looking** for a role/position?
 
+- **role**: função, papel, cargo.
+- **position**: posição, cargo, vaga
+-**job opportunity**
+-**seeking / looking for**: procurando
+-**to mencione that**
+
 - At this moment I'm seeking/looking for I python developer role, and I need to mencione that I can work in UK, because I have de pre-setle aproved
+
 
 > Do you have **the right to work** here? Have you got a **Visa**?
 
@@ -54,7 +62,7 @@ wellllll.... my salary expectation in this moment is between 30 to 40 thousand, 
 
 ### The Most commum word you will have listen in a intreview
 
-- role
+- role 
 - position
 - salary expectation
 - willing...

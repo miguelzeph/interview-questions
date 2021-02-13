@@ -4,7 +4,9 @@
 ### The Most Intreview Questions and Possible Answers
 
 > What is your **situation right know**?
+
 > Are you **seeking/looking** for a **role/position**?
+
 > What **kinda** role are you looking in the moment?
 
 - **role**: função, papel, cargo.

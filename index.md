@@ -1,14 +1,17 @@
 # Intreview Questions
 
 
-### The Most Intreview Questions and Possible Answers
+## The Most Intreview Questions and Possible Answers
 
+___
+##### questions
 > What is your **situation right know**?
 
 > Are you **seeking/looking** for a **role/position**?
 
 > What **kinda** role are you looking in the moment?
 
+##### useful words
 - **role**: função, papel, cargo.
 |**position**: posição, cargo, vaga
 |**job opportunity**
@@ -16,13 +19,89 @@
 |**to mencione that**
 |**kinda**: tipo de
 
+##### possible answers
 - At this moment I'm seeking/looking for I python developer role, and I need to mencione that I can work in UK, because I have de pre-setle aproved
 
 
 
 ___
 ##### questions
-> xxxx
+> Do you have **the right to work** here?
+
+> Have you got a **Visa**?
+
+> What **visa** do you have?
+
+> What s your **right to work** here in UK?
+
+
+##### useful words
+- **visa**: visto
+|**right to work**: direito de trabalhar
+|**settle**: resolver/ajustar 
+|**resolve**: resolver
+
+##### possible answers
+- Yeah, I'm from Brazil but I have italian citizenship as well... And I have a pre-settle status aproved here.
+
+- I don't have the right to work yet, but I'm going to resolve this as soon as possíble.
+
+
+
+
+___
+##### questions
+> Are you working here in this moment? 
+
+> Are you kinda working in a role right now? 
+
+##### useful words
+- **improve**
+|**dedicated**
+|**hundred porcent**
+|**in this moment**
+
+
+##### possible answers
+- No, I'm not working in the moment because I'm hundred porcent dedicated to improve my english.
+
+
+--------------------What s about your availity?can you start in a straight way? Can you Start immediately? Can you join the company know?  (Você pode começar agora?) STRAIGHT -> DIRETO/EM LINHA RETA---------------------------------------------------------------------------------
+
+
+___
+##### questions
+> What s about your **availity**?
+
+> Can you start in a **straight way**? __Você pode começar agora?__
+
+> Can you start **immediately**? 
+
+> Can you join the company know?  (Você pode começar agora?) STRAIGHT -> DIRETO/EM LINHA RETA
+
+##### useful words
+- **straight**: direto, direta, reto
+|**way**: maneira, caminho, jeito
+|**straight way**: "começar agora"
+|**immediately**
+|**availity**: disponibilidade
+|**start**: começar, iniciar
+|**join**: juntar-se
+
+##### possible answers
+- Yes, I can start immetiately
+
+- Yes, in this moment I'm unemployed because I just arrived here and I have one hundred percent my time free.
+
+
+
+
+Yes, I had work in a part-time job here.... but not as a Developer because I just arrived in UK and I couldn't speak english and I need to pay my rent here ......and I was also working remotely to my last project in Brazil.
+
+___
+##### questions
+> Have you worked here? 
+> Did you work here?
 
 ##### useful words
 - **xxx**
@@ -35,6 +114,10 @@ ___
 
 ##### possible answers
 - xxxxxx xxxx
+
+
+
+
 
 ___
 ##### questions
@@ -54,11 +137,6 @@ ___
 
 
 
-> Do you have **the right to work** here?
-> Have you got a **Visa**?
-> What **visa** do you have?
-
-- Yeah, I'm from Brazil but I have italian citizenship as well... And I have a pre-settle status aproved here.
 
 > Are you **working here in this moment**?
 > Are you kinda working in a role right now?

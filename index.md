@@ -3,18 +3,23 @@
 
 ### The Most Intreview Questions and Possible Answers
 
-> What is your **situation right know**? Are you **seeking/looking** for a role/position?
+> What is your **situation right know**?
+> Are you **seeking/looking** for a **role/position**?
+> What **kinda** role are you looking in the moment?
 
 - **role**: função, papel, cargo.
-- **position**: posição, cargo, vaga
+-**position**: posição, cargo, vaga
 -**job opportunity**
 -**seeking / looking for**: procurando
 -**to mencione that**
+-**kinda**: tipo de
 
 - At this moment I'm seeking/looking for I python developer role, and I need to mencione that I can work in UK, because I have de pre-setle aproved
 
 
-> Do you have **the right to work** here? Have you got a **Visa**?
+> Do you have **the right to work** here?
+> Have you got a **Visa**?
+> What **visa** do you have?
 
 - Yeah, I'm from Brazil but I have italian citizenship as well... And I have a pre-settle status aproved here.
 

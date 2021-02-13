@@ -124,7 +124,7 @@ ___
 
 
 ##### possible answers
-- Well, I arrived here in end of July in last year.... Sooo... my wife got a job in Bet365 and we need to moved to Stoke in Dezember.
+- Well, I arrived here in end of July in the last year.... Sooo... my wife got a job in Bet365 and we need to moved to Stoke in Dezember.
 
 - I just arrived here in a couple of days/months ago.
 
@@ -172,7 +172,7 @@ ___
 
 ___
 ##### questions
-> What did you do in your last project/job?
+> What did you do in your last/**previous** project/job?
 
 ##### useful words
 - **data /daita/**: dados
@@ -180,7 +180,7 @@ ___
 |**responsible**: responsável
 
 ##### possible answers
-- Basically, in my last project, we had a lot of data to filter through 64 antennas scattered all over Brazil ...anddd... I was responsible for creating an application to extract these results in an almost automatic way.... soooo... After that I need to code a routine to use a model proposed by my supervisor and our team... briefly I think that was it...
+- Basically, in my last/previous project, we had a lot of data to filter through 64 antennas scattered all over Brazil ...anddd... I was responsible for creating an application to extract these results in an almost automatic way.... soooo... After that I need to code a routine to use a model proposed by my supervisor and our team... briefly I think that was it...
 
 
 ___
@@ -217,16 +217,17 @@ ___
 |**expectation**: expectativa
 |**fair**: justo
 |**fair enough**:justo
+|**proposals**:proposta
 
 ##### possible answers
-- wellllll.... my salary expectation in this moment is between 35 to 45 thousand (per year), and I'm open to discuss.
+- wellllll.... my salary expectation in this moment is between 35 to 45 thousand (per year), and I'm open to discuss / others proposals
 
-- Wellll.... my salary expectation in this moment is between 35 to 45 thounsand, I think is fair in this moment because I just arrived here.
+- Wellll.... my salary expectation in this moment is between 35 to 45 thounsand, I think is fair in this moment because I just arrived here, anyway I'm open to discuss / others proposals
 
 
 ___
 ##### questions
-> Do you know about the company (NAME)?
+> Do you know anything about the company (NAME)?
 
 ##### useful words
 - **brands**: marcas
@@ -247,8 +248,8 @@ ___
 
 
 ##### possible answers
-- About this app, I made this app in early/beginning of 2020 (two thousand twenty). **We were at the beginning of the corovirus pandemic in Brazil so I found it interesting to create a webapp to have an easy view of the cases daily**. I used some libraries like pandas, matplotlib, seaborn and streamlit. I need to check more this app, but I remebered that wasn't so difficult to do. I got the data about covid from a link ...  didnt need to grab the data country by country or something like that... I used Pandas to get the row and column that I needed... matplotlib to plot the data and Seaborn to set some plot configuration... 
-I decided to use streamlit library instead of Flask or Django because is so pratic for short applications / apps... I could use Dash or Painel library as well... But I decided use Streamlit because  this library there are a lot of tools and are so simple to do.
+- About this app, I made this app in early/beginning of 2020 (two thousand twenty). **We were at the beginning of the corovirus pandemic in Brazil so I found it interesting to create a webapp to have an easy view of the cases daily**. I used some libraries like pandas, matplotlib, seaborn and streamlit... well... I need to check more this app, but I remebered that wasn't so difficult to do. I got the data about covid from a link ...  didnt need to grab the data country by country or something/sometuff like that...and... I used Pandas to get the row and column that I needed... matplotlib to plot the data and Seaborn to set up some plot configuration... 
+I decided to use streamlit library instead of Flask or Django because is so pratic for short applications / apps... I could use Dash from plotly as well... But I decided use Streamlit because  this library there are a lot of tools and are so simple to do.
 
 
 ___
@@ -271,7 +272,7 @@ yeah I have...
 
 - I was interested in three positions that you posted on linkedin....
 
-- Where the position is situated?
+- Where the position is situated/ located?
 
 - Could you please inform me... what are the next steps?
 
@@ -281,7 +282,7 @@ yeah I have...
 
 - Do you know if the company provide any training in the beginning?  could you explain to me please?
 
-- What would be my tasks for this position? could you explain to me please?
+- What would be my tasks for this position? could you explain it to me please?
 
 - Where is located/situated the company?
 
@@ -299,7 +300,10 @@ ___
 
 
 ##### possible answers
-- To be honest with you guys, I wasn't looking for a job in this moment, because I was hundred porcent focosed in improve my vocabulary in english, but how the oppotunity appears to me, How can I refuse it? I couldn't say not and know I'm here doing my best for you guys...andddd.... I don't have afraid to make mistakes just because to learn you need to lost some time, I believe that the practice makes perfect. It's all that I have to say.
+- To be honest with you guys, I wasn't looking for a job in this moment, because I was hundred porcent focused in improve my vocabulary, my english, but How the oppotunity appears to me, How can I refuse it? I couldn't say not and now I'm here doing my best for you guys...andddd.... I don't have afraid to make mistakes just because to learn you need to lost some time, I believe that the practice makes perfect.. andd ...It's all that I have to say.
+<!--GRAVADO 1-->
+
+
 
 
 <!-- MODELO PRONTO
@@ -374,7 +378,7 @@ ___
 |**last year**
 |**moved**
 |**few days / a couple of days** poucos dias
-|**ago**: atrás, anteriors
+|**ago**: atrás, anterior
 |**of course**:claro
 |**beginning**: começo
 |**Since**: desde 
@@ -391,10 +395,17 @@ ___
 |**provide**:proporciona, fornece
 |**interested**
 |**task**:tarefa, trabalho, serviço
+|**proposals**:proposta
+|**the main**: o principal
+|**aim**: objetivo, alvo,intenção
+|**goal**:meta,objetivo
+|**purpose /parpes|**:propósito,objetivo
+|**the main aim**:o objetivo principal
+|**the main goal**:" ... "
+<!--GRAVADO 1-->
 
 
-
-## Useful sentences to use in a intreview
+## Useful sentences to use in a interview
 
 > Can you heard me well?
 
@@ -406,15 +417,16 @@ ___
 
 > I didnt follow you... I can't follow you
 
-> Could you speak a little bit slow, I will appreciate it a lot 
+> Could you speak a little bit slow, I will appreciate it a lot, thanks
 
 > I have facility to resolve problems and learn new things because I'm fast learner in anything that I commited myself to do...
 
-> I know how to use Flask, but in this moment I'm a little bit rusty because I used it a some time ago... but it isnt a problem to me if I need to use it again I believe that I wont have problems
+> I know how to use Flask, but in this moment I'm a little bit rusty because I used it a some time ago... but it isn't a problem to me... well... if I need to use it again I believe that I wont have problems
 
 > I'm willing to move to anywhere here
 
 > I have applied to this position / role
+<!--GRAVADO 1-->
 
 
 

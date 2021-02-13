@@ -20,7 +20,7 @@
 
 
 
-
+___
 ##### questions
 > xxxx
 
@@ -35,7 +35,7 @@
 
 ##### possible answers
 - xxxxxx xxxx
-
+___
 
 
 > Do you have **the right to work** here?

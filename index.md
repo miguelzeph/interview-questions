@@ -37,6 +37,21 @@ ___
 - xxxxxx xxxx
 
 ___
+##### questions
+> xxxx
+
+##### useful words
+- **xxx**
+|**xxx**
+|**xx**
+|**xx**
+|**xx**
+|**xx**
+|**xx**
+
+##### possible answers
+- xxxxxx xxxx
+
 
 
 > Do you have **the right to work** here?

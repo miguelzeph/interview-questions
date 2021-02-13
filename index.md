@@ -60,13 +60,12 @@ ___
 |**dedicated**
 |**hundred porcent**
 |**in this moment**
+|**unemployed**: Desempregado
 
 
 ##### possible answers
 - No, I'm not working in the moment because I'm hundred porcent dedicated to improve my english.
 
-
---------------------What s about your availity?can you start in a straight way? Can you Start immediately? Can you join the company know?  (Você pode começar agora?) STRAIGHT -> DIRETO/EM LINHA RETA---------------------------------------------------------------------------------
 
 
 ___
@@ -77,7 +76,7 @@ ___
 
 > Can you start **immediately**? 
 
-> Can you join the company know?  (Você pode começar agora?) STRAIGHT -> DIRETO/EM LINHA RETA
+> Can you join the company know?  (Você pode começar agora?) 
 
 ##### useful words
 - **straight**: direto, direta, reto
@@ -94,17 +93,78 @@ ___
 - Yes, in this moment I'm unemployed because I just arrived here and I have one hundred percent my time free.
 
 
-
-
-Yes, I had work in a part-time job here.... but not as a Developer because I just arrived in UK and I couldn't speak english and I need to pay my rent here ......and I was also working remotely to my last project in Brazil.
-
 ___
 ##### questions
 > Have you worked here? 
+
 > Did you work here?
 
+> Have you ever gotten a job here in this country?
+
 ##### useful words
-- **xxx**
+- **at that time**:naquela época
+|**back then**: naquela época
+|**part-time job**
+|**full-time job**
+|**arrived**:cheguei
+|**get in**: cheguei
+
+##### possible answers
+- Yes, I had work in a part-time job here.... but not as a Developer because I just arrived in UK and I couldn't speak english at that time, well,  I need to pay my rent here ......and I was also working remotely to my last project in Brazil.
+
+
+___
+##### questions
+> When did you **arrived / get in** UK
+
+##### useful words
+- **last year**
+|**moved**
+|**few days / a couple of days** poucos dias
+|**ago**: atrás, anteriors
+
+
+##### possible answers
+- Well, I arrived here in end of July in last year.... Sooo... my wife got a job in Bet365 and we need to moved to Stoke in Dezember.
+
+- I just arrived here in a couple of days/months ago.
+
+
+
+
+
+___
+##### questions
+> What are your experiences in **previous works**?
+
+> Could you talk to me about you previous work?
+
+##### useful words
+- **previous**:anterior
+|**talk about**:fala sobre
+|**several**:varios
+|**due to**:devido a
+|**Briefly**:brevemente, resumidamente
+|**solving problems**
+|**basically**:basicamente
+|**anyway**: de qualquer forma
+|**by the way**: a propósito
+|**eclectic**:eclético
+
+##### possible answers
+- Alright, over these 10 years working in the National Institute of Research Space (INPE) I participated in several projects, not having empathize /EMFESIS/ in a specific area due to the diversity of the projects... like... Sometimes I needed to create a function to automate /OTOMATE/ something... other times I needed to adjust a mathematical model or a physical model proposed by the scientific literature to compare it with our results in the laboratory ... other times we used some Machine Learning libraries like TensorFlow or Scikit-Learn to predict some results or to find some relationship between some parameters in the measurements ...briefly, I am an expert in solving problems... SOooooo.... basically I was a very eclectic guy during those whole years ago.
+
+
+
+
+
+
+___
+##### questions
+> Can/could you talk a little bit about **YOUR SELF**?
+
+##### useful words
+- **of course**:claro
 |**xxx**
 |**xx**
 |**xx**
@@ -113,9 +173,7 @@ ___
 |**xx**
 
 ##### possible answers
-- xxxxxx xxxx
-
-
+- of course... Briefly, I have a degree in physics and I have a master's degree and a Phd in aerospace engineering... So ... I finished my post-doctoral in the same aerea in the beginnig of the last year... sooo ... Since 2009 I started to use python and its libraries in my research to help me, my supervisor and my team with the datas ... like.... Basically I used python in the scientific research area, to manipulate data, to extraction data, create routines, optimize processes, predict results.... anddd.... I also took several online courses in the Machine Learn area / Data Science area and Web Developer (mainly using Flask and Django 3), but... even though I know a lot about Web developer I don't have  profissional experience as Web developer... so... Then I moved to UK in the last year to improve my english... andd I have around 10 years of experience with python .... I think it's all that I have to say to you.
 
 
 
@@ -134,6 +192,7 @@ ___
 
 ##### possible answers
 - xxxxxx xxxx
+
 
 
 

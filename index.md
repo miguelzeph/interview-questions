@@ -20,7 +20,7 @@ ___
 |**kinda**: tipo de
 
 ##### possible answers
-- At this moment I'm seeking/looking for I python developer role, and I need to mention that I can work in UK, because I have de pre-setle aproved
+- At this moment I'm seeking/looking for I python developer role, and I need to mention that I can work in UK, because I have de pre-settle status aproved here
 
 
 

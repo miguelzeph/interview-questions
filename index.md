@@ -62,7 +62,7 @@ ___
 
 
 ##### possible answers
-- No, I'm not working in the moment because I'm hundred porcent dedicated to improve my english.
+- No, I'm not working in the moment because I'm hundred porcent dedicated to improve my english to improve my vocabulary
 
 
 
@@ -88,7 +88,7 @@ ___
 ##### possible answers
 - Yes, I can start immetiately
 
-- Yes, in this moment I'm unemployed because I just arrived here and I have one hundred percent my time free.
+- Yes, in this moment I'm unemployed because I just arrived here and I have one hundred percent of my time free then I can join right know in the company
 
 
 
@@ -109,7 +109,7 @@ ___
 |**get in**: cheguei
 
 ##### possible answers
-- Yes, I had work in a part-time job here.... but not as a Developer because I just arrived in UK and I couldn't speak english at that time, well,  I need to pay my rent here ......and I was also working remotely to my last project in Brazil.
+- Yes, I had worked in a part-time job here.... but not as a Developer because I just arrived in UK and I couldn't speak english at that time, well,  I needed to pay my rent back then ......Besides that I was also working remotely to my last/previous project in Brazil.
 
 
 ___

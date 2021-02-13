@@ -10,11 +10,11 @@
 > What **kinda** role are you looking in the moment?
 
 - **role**: função, papel, cargo.
--**position**: posição, cargo, vaga
--**job opportunity**
--**seeking / looking for**: procurando
--**to mencione that**
--**kinda**: tipo de
+|**position**: posição, cargo, vaga
+|**job opportunity**
+|**seeking / looking for**: procurando
+|**to mencione that**
+|**kinda**: tipo de
 
 - At this moment I'm seeking/looking for I python developer role, and I need to mencione that I can work in UK, because I have de pre-setle aproved
 

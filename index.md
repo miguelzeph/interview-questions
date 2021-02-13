@@ -236,6 +236,20 @@ ___
 - I know that company create solutions for others companies, brands and retailer .... it make me remember a data science class where we studied an supermarket sales and through the Machine Leaning it was possible to find a way to put the products in a way that improves the sales. It was awesome.
 
 
+___
+##### questions
+> Could you explain what you did in this app?
+
+##### useful words
+- **in early** no começo
+|**in the beginning** no começo
+|**I found it interesting to** achei interessante
+
+
+##### possible answers
+- About this app, I made this app in early/beginning of 2020 (two thousand twenty). **We were at the beginning of the corovirus pandemic in Brazil so I found it interesting to create a webapp to have an easy view of the cases daily**. I used some libraries like pandas, matplotlib, seaborn and streamlit. I need to check more this app, but I remebered that wasn't so difficult to do. I got the data about covid from a link ...  didnt need to grab the data country by country or something like that... I used Pandas to get the row and column that I needed... matplotlib to plot the data and Seaborn to set some plot configuration... 
+I decided to use streamlit library instead of Flask or Django because is so pratic for short applications / apps... I could use Dash or Painel library as well... But I decided use Streamlit because  this library there are a lot of tools and are so simple to do.
+
 
 ___
 ##### questions
@@ -285,7 +299,8 @@ ___
 ##### possible answers
 - To be honest with you guys, I wasn't looking for a job in this moment, because I was hundred porcent focosed in improve my vocabulary in english, but how the oppotunity appears to me, I couldn't say not and know I'm here doing my best for you guys...andddd.... I don't have afraid to make mistakes just because to learn you need to lost some time, I believe that the practice makes perfect. It's all that I have to say.
 
-<!--
+
+<!-- MODELO PRONTO
 ___
 ##### questions
 > xxxx
@@ -306,8 +321,10 @@ ___
 
 
 ## The Most commum word you will have listen in a intreview
-
-- **To be honest with you**: para ser sincero/honesto
+- **in early** no começo
+|**in the beginning** no começo
+|**I found it interesting to** achei interessante
+|**To be honest with you**: para ser sincero/honesto
 |**practice makes perfect**
 |**believe that**
 |**committed**:comprometido

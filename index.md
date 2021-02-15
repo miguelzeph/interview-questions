@@ -433,25 +433,28 @@ ___
 
 > What is the curse of dimensionality and how should one deal with it when building machine-learning models?
 
-- **deal**:lidar/acordo
+- **deal**:lidar, acordo
 
-- As mentioned here, it basically states that higher dimensionality isn’t really better since some algorithms don’t typically scale well to more dimensions. Adding excess variables leads to the risk of overfitting your  model.
+-  Basically add higher dimensionality isn’t really better, because adding excess variables leads to the risk of overfitting your model.
 
-> Why is a comma a bad record separator/delimiter?
+> What is the worst record separator/delimiter?
 
-- Commas can be used in a lot of textual columns, like let’s say the address field. While extracting data, it can be problematic when the platform can’t not differentiate between comma, the delimiter and comma, the text.
+- **worst**:pior
+|**record separator** = **record delimiter**:separador
+|
+
+- The worst record separator or secord delimiter is the comma, because you can used in a lot of textual columns....So...While extracting data, it can be problem to differentiate between comms delimiter and comma text.
 
 > Explain the difference between a compiled computer language and an interpreted computer language.
 
-- Someone has already explained the answer quite beautifully on Quora. Interpretation and compilation are implementation techniques and not separate programming languages.
 
 Interpretation is a technique whereby another program, the interpreter, performs operations on behalf of the program being interpreted in order to run it.”
 
 Compilation is a technique whereby a program written in one language (the “source language”) is translated into a program in another language (the “object language”), which hopefully means the same thing as the original program.”
 
->  How do you determine “k” for k-means clustering? Or, how do you determine the number of clusters in a data set?
+>  How do you determine “k” (numbers of clusters) for k-means clustering?
 
-- This is usually dependent on the data but it is upto one’s judgement on how many distinct groups one thinks there are. Silhoutte Method, Elbow Method are some of the many methods that can be used to determine the ideal number of clusters.
+-I think this is usually dependent on the data, but Elbow Method can be used to determine the ideal number of clusters.
 
 > What’s more important: predictive power or interpretability of a model?
 
@@ -464,6 +467,29 @@ Compilation is a technique whereby a program written in one language (the “sou
 > Explain the “bias-variance trade-off” and why it is fundamental to machine learning.
 
 - Bias is the difference between the expected value of the predictor and the true value of parameter being estimated. High Bias can cause the algorithm to be underfitted.  Variance can cause overfitting in the dataset.
+
+> What the difference between **supervised** and **unsupervised** learning?
+
+- 
+
+
+# Introduce yourself in Data Science 
+
+To be honest with you guys, I wasn't looking for work at the moment, just studying English, but as the opportunity appeared and I decided to try, how can I refuse? ... the big problem is that I'm a little bit rusty in theory at the moment ...
+
+However I started working with python in around 2009, since then, I did other research activities but always working with data...and... in my last job I worked a lot of with data ... I used python libraries a lot like matplotlib, numpy, scipy, pandas, seaborn, tensorflow, scikit-learn, streamlit and others that I dont remember in this moment...
+
+I would also like to mention that almost 2 years ago I started to study Machine Learning / Data Science a little bit more, it wasn't my focus at that time ... because I was doing my research in Radiation Absorbing Material.
+
+I remember studied how to creating neural networks with input layers, hidden layers and output layers ... I studied several activation functions also like RELU, Sigmoidal .... I studied neural multilayers. Convolutional neural networks to train the neurals network to get the  right answers the images. .... I remember also working with Tokenization for text.
+
+I studied the predictive, descriptive methods, supervised and unsupervised learning ... but I don't know all by heart in this moment
+
+I remember as well learned how to do Linear Regressions, Logistic Regressions, K nearest Neighbor, K means Clustering,
+Decision Treen, Random Forest ...
+
+So, thanks to your feedback at the last meeting, because know I will focus more on the Data Science area, which I also think is more my fit.
+
 
 
 

@@ -429,6 +429,42 @@ ___
 <!--GRAVADO 1-->
 
 
+## Technical Answers
+
+> What is the curse of dimensionality and how should one deal with it when building machine-learning models?
+
+- As mentioned here, it basically states that higher dimensionality isn’t really better since some algorithms don’t typically scale well to more dimensions. Adding excess variables leads to the risk of overfitting your  model.
+
+> Why is a comma a bad record separator/delimiter?
+
+- Commas can be used in a lot of textual columns, like let’s say the address field. While extracting data, it can be problematic when the platform can’t not differentiate between comma, the delimiter and comma, the text.
+
+> Explain the difference between a compiled computer language and an interpreted computer language.
+
+- Someone has already explained the answer quite beautifully on Quora. Interpretation and compilation are implementation techniques and not separate programming languages.
+
+Interpretation is a technique whereby another program, the interpreter, performs operations on behalf of the program being interpreted in order to run it.”
+
+Compilation is a technique whereby a program written in one language (the “source language”) is translated into a program in another language (the “object language”), which hopefully means the same thing as the original program.”
+
+>  How do you determine “k” for k-means clustering? Or, how do you determine the number of clusters in a data set?
+
+- This is usually dependent on the data but it is upto one’s judgement on how many distinct groups one thinks there are. Silhoutte Method, Elbow Method are some of the many methods that can be used to determine the ideal number of clusters.
+
+> What’s more important: predictive power or interpretability of a model?
+
+- Depends on who the model is being presented to. If it’s to business experts, then interpretability but if it’s to fellow data hacks, predictive power may be more important. So all in all, it depends on the context.
+
+> Explain finite precision. Why is finite precision a problem in machine learning?
+
+- Finite precision is decimal representation of a number which has been rounded or truncated. There many cases where this may be necessary or appropriate. For example, π has to be truncated. These compromises are compounded with arithmetic operations. Unstable algorithms are prone to arithmetic errors. Source
+
+> Explain the “bias-variance trade-off” and why it is fundamental to machine learning.
+
+- Bias is the difference between the expected value of the predictor and the true value of parameter being estimated. High Bias can cause the algorithm to be underfitted.  Variance can cause overfitting in the dataset.
+
+
+
 
 
 

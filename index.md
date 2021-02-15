@@ -429,9 +429,11 @@ ___
 <!--GRAVADO 1-->
 
 
-## Technical Answers
+## Technical Answers - [source](https://whilemyrgentlyweeps.wordpress.com/)
 
 > What is the curse of dimensionality and how should one deal with it when building machine-learning models?
+
+- **deal**:lidar/acordo
 
 - As mentioned here, it basically states that higher dimensionality isn’t really better since some algorithms don’t typically scale well to more dimensions. Adding excess variables leads to the risk of overfitting your  model.
 

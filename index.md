@@ -473,9 +473,9 @@ Compilation is a technique whereby a program written in one language (the “sou
 - 
 
 
-# Introduce yourself in Data Science 
+# Introduce yourself in Data Science Interview
 
-To be honest with you guys, I wasn't looking for work at this moment a job, just studying English, but as the opportunity appeared and I decided to try, how can I refuse? ... the big problem is that I'm a little bit rusty in theory at the moment ...
+To be honest with you guys, I wasn't looking for work a job at this moment, just studying English, but as the opportunity appeared and I decided to try, how can I refuse? ... the big problem is that I'm a little bit rusty in theory at the moment ...
 
 However I started working with python in around 2009, since then, I did other research activities but always working with data...and... in my last job I worked a lot of with data ... I used python libraries a lot like matplotlib, numpy, scipy, pandas, seaborn, tensorflow, scikit-learn, streamlit and others that I dont remember in this moment...
 

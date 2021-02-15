@@ -475,20 +475,20 @@ Compilation is a technique whereby a program written in one language (the “sou
 
 # Introduce yourself in Data Science Interview
 
-To be honest with you guys, I wasn't looking for work a job at this moment, just studying English, but as the opportunity appeared and I decided to try, how can I refuse? ... the big problem is that I'm a little bit rusty in theory at the moment ...
+To be honest with you guys, I wasn't looking for a job at this moment, I was just studying English, but as the opportunity appeared and I decided to try, how can I refuse it? ... I think that the big problem in this moment is that I'm a little bit rusty with the data science theory.
 
-However I started working with python in around 2009, since then, I did other research activities but always working with data...and... in my last job I worked a lot of with data ... I used python libraries a lot like matplotlib, numpy, scipy, pandas, seaborn, tensorflow, scikit-learn, streamlit and others that I dont remember in this moment...
+However I started to work with python in around 2009, since then, I performed other research activities but always working with data...and... in my last job I worked a lot of with data ... I used python libraries a lot like matplotlib, numpy, scipy, pandas, seaborn, tensorflow, scikit-learn, streamlit and others that I dont remember all in this moment...
 
 I would also like to mention that almost 2 years ago I started to study Machine Learning / Data Science a little bit more, it wasn't my focus at that time ... because I was doing my research in Radiation Absorbing Material.
 
-I remember studied how to creating neural networks with input layers, hidden layers and output layers ... I studied several activation functions also like RELU, Sigmoidal .... I studied neural multilayers. Convolutional neural networks to train the neurals network to get the  right answers the images. .... I remember also working with Tokenization for text.
+But I remember studied how to creating neural networks with input layers, hidden layers and output layers ... I studied several activation functions also like RELU, Sigmoidal .... I studied neural multilayers. Convolutional neural networks to train the neurals network to get the  right image .... I remember also working with Tokenization for text.
 
 I studied the predictive, descriptive methods, supervised and unsupervised learning ... but I don't know all by heart in this moment
 
 I remember as well learned how to do Linear Regressions, Logistic Regressions, K nearest Neighbor, K means Clustering,
 Decision Treen, Random Forest ...
 
-So, thanks to your feedback at the last meeting, because know I will focus more on the Data Science area, which I also think is more my fit.
+And I would like to say thanks to your feedback at the last meeting, because know I will focus more on the Data Science area, which I also think is more my fit.
 
 
 

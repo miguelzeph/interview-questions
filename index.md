@@ -149,7 +149,7 @@ ___
 |**eclectic**:eclético
 
 ##### possible answers
-- Alright, over these 10 years working in the National Institute of Research Space (INPE) I participated in several projects, not having empathize /EMFESIS/ in a specific area due to the diversity of the projects... like... Sometimes I needed to create a function to automate /OTOMATE/ something... other times I needed to adjust a mathematical model or a physical model proposed by the scientific literature to compare it with our results in the laboratory ... other times we used some Machine Learning libraries like TensorFlow or Scikit-Learn to predict some results or to find some relationship between some parameters in the measurements ...briefly, I am an expert in solving problems... SOooooo.... basically I was a very eclectic guy during those whole years ago.
+- Alright, over these 10 years working in the National Institute of Research Space (INPE) I participated in several projects, not having empathize /EMFESIS/ in a specific area due to the diversity of the projects... like... Sometimes I needed to create a function to automate /OTOMATE/ something... other times I needed to adjust a mathematical model or a physical model proposed by the scientific literature to compare it with our results in the laboratory ... other times we used some Machine Learning libraries like TensorFlow or Scikit-Learn to predict some results or to find some relationship between some parameters in the measurements ...briefly, I am an expert in solving problems... So.... basically I was a very eclectic guy during those whole years ago.
 
 
 ___
@@ -166,7 +166,7 @@ ___
 
 
 ##### possible answers
-- of course... Briefly, I have a degree in physics and I have a master's degree and a Phd in aerospace engineering... So ... I finished my post-doctoral in the same aerea in the beginnig of the last year... sooo ... Since 2009 I started to use python and its libraries in my research to help me, my supervisor and my team with the datas ... like.... Basically I used python in the scientific research area, to manipulate data, to extraction data, create routines, optimize processes, predict results.... anddd.... I also took several online courses in the Machine Learn area / Data Science area and Web Developer (mainly using Flask and Django 3), but... even though I know a lot about Web developer I don't have  profissional experience as Web developer... so... Then I moved to UK in the last year to improve my english... andd I have around 10 years of experience with python .... I think it's all that I have to say to you.
+- of course... Briefly, I have a degree in physics and I have a master's degree and a Phd in aerospace engineering... So ... I finished my post-doctoral in the same aerea in the beginnig of the last year... so ... Since 2009 I started to use python and its libraries in my research to help me, my supervisor and my team with the datas ... like.... Basically I used python in the scientific research area, to manipulate data, to extraction data, create routines, optimize processes, predict results.... anddd.... I also took several online courses in the Machine Learn area / Data Science area and Web Developer (mainly using Flask and Django 3), but... even though I know a lot about Web developer I don't have  profissional experience as Web developer... so... Then I moved to UK in the last year to improve my english... andd I have around 10 years of experience with python .... I think it's all that I have to say to you.
 
 
 
@@ -180,7 +180,7 @@ ___
 |**responsible**: responsável
 
 ##### possible answers
-- Basically, in my last/previous project, we had a lot of data to filter through 64 antennas scattered all over Brazil ...anddd... I was responsible for creating an application to extract these results in an almost automatic way.... soooo... After that I need to code a routine to use a model proposed by my supervisor and our team... briefly I think that was it...
+- Basically, in my last/previous project, we had a lot of data to filter through 64 antennas scattered all over Brazil ...and... I was responsible for creating an application to extract these results in an almost automatic way.... so... After that I need to code a routine to use a model proposed by my supervisor and our team... briefly I think that was it...
 
 
 ___
@@ -195,9 +195,9 @@ ___
 
 
 ##### possible answers
-- wellll....I'm currently in Stoke-On-Trent city but I'm willing to move to anywhere in UK...
+- well,I'm currently in Stoke-On-Trent city but I'm willing to move to anywhere in UK...
 
-- Well... Yes, I willing to move anywhere inside UK, it's not a problem to me... because I'm already so far of my home.
+- Well,Yes, I willing to move anywhere inside UK, it's not a problem to me... because I'm already so far of my home.
 
 
 
@@ -402,98 +402,9 @@ ___
 |**purpose /parpes|**:propósito,objetivo
 |**the main aim**:o objetivo principal
 |**the main goal**:" ... "
+|**deal**:lidar, acordo
+|**worst**:pior
+|**record separator**:separador
+|**record delimiter**:separador
 <!--GRAVADO 1-->
-
-
-## Useful sentences to use in a interview
-
-> Can you heard me well?
-
-> Could you speak louder?
-
-> Could you repeat please?
-
-> I didn't catch that
-
-> I didnt follow you... I can't follow you
-
-> Could you speak a little bit slow, I will appreciate it a lot, thanks
-
-> I have facility to resolve problems and learn new things because I'm fast learner in anything that I commited myself to do...
-
-> I know how to use Flask, but in this moment I'm a little bit rusty because I used it a some time ago... but it isn't a problem to me... well... if I need to use it again I believe that I wont have problems
-
-> I'm willing to move to anywhere here
-
-> I have applied to this position / role
-<!--GRAVADO 1-->
-
-
-## Technical Answers - [source](https://whilemyrgentlyweeps.wordpress.com/)
-
-> What is the curse of dimensionality and how should one deal with it when building machine-learning models?
-
-- **deal**:lidar, acordo
-
--  Basically add higher dimensionality isn’t really better, because adding excess variables leads to the risk of overfitting your model.
-
-> What is the worst record separator/delimiter?
-
-- **worst**:pior
-|**record separator** = **record delimiter**:separador
-|
-
-- The worst record separator or secord delimiter is the comma, because you can used in a lot of textual columns....So...While extracting data, it can be problem to differentiate between comms delimiter and comma text.
-
-> Explain the difference between a compiled computer language and an interpreted computer language.
-
-
-Interpretation is a technique whereby another program, the interpreter, performs operations on behalf of the program being interpreted in order to run it.”
-
-Compilation is a technique whereby a program written in one language (the “source language”) is translated into a program in another language (the “object language”), which hopefully means the same thing as the original program.”
-
->  How do you determine “k” (numbers of clusters) for k-means clustering?
-
--I think this is usually dependent on the data, but Elbow Method can be used to determine the ideal number of clusters.
-
-> What’s more important: predictive power or interpretability of a model?
-
-- Depends on who the model is being presented to. If it’s to business experts, then interpretability but if it’s to fellow data hacks, predictive power may be more important. So all in all, it depends on the context.
-
-> Explain finite precision. Why is finite precision a problem in machine learning?
-
-- Finite precision is decimal representation of a number which has been rounded or truncated. There many cases where this may be necessary or appropriate. For example, π has to be truncated. These compromises are compounded with arithmetic operations. Unstable algorithms are prone to arithmetic errors. Source
-
-> Explain the “bias-variance trade-off” and why it is fundamental to machine learning.
-
-- Bias is the difference between the expected value of the predictor and the true value of parameter being estimated. High Bias can cause the algorithm to be underfitted.  Variance can cause overfitting in the dataset.
-
-> What the difference between **supervised** and **unsupervised** learning?
-
-- 
-
-
-# Introduce yourself in Data Science Interview
-
-To be honest with you guys, I wasn't looking for a job at this moment, I was just studying English, but as the opportunity appeared and I decided to try, how can I refuse it? ... I think that the big problem in this moment is that I'm a little bit rusty with the data science theory.
-
-However I started to work with python in around 2009, since then, I performed other research activities but always working with data...and... in my last job I worked a lot of with data ... I used python libraries a lot like matplotlib, numpy, scipy, pandas, seaborn, tensorflow, scikit-learn, streamlit and others that I dont remember all in this moment...
-
-I would also like to mention that almost 2 years ago I started to study Machine Learning / Data Science a little bit more, it wasn't my focus at that time ... because I was doing my research in Radiation Absorbing Material.
-
-But I remember studied how to creating neural networks with input layers, hidden layers and output layers ... I studied several activation functions also like RELU, Sigmoidal .... I studied neural multilayers. Convolutional neural networks to train the neurals network to get the  right image .... I remember also working with Tokenization for text.
-
-I studied the predictive, descriptive methods, supervised and unsupervised learning ... but I don't know all by heart in this moment
-
-I remember as well learned how to do Linear Regressions, Logistic Regressions, K nearest Neighbor, K means Clustering,
-Decision Treen, Random Forest ...
-
-And I would like to say thanks to your feedback at the last meeting, because know I will focus more on the Data Science area, which I also think is more my fit.
-
-
-
-
-
-
-
 
